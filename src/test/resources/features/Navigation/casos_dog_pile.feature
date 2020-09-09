@@ -19,4 +19,4 @@ Característica: Busqueda en Dogpile
     Ejemplos:
       | titulo         | descripcion |
       | rock argentino | rock        |
-      | rock peruano   | rock        |
+      | rock argentino | rock        |
