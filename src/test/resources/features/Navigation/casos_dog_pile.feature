@@ -1,6 +1,7 @@
 # language:es
 Característica: Busqueda en Dogpile
 
+  @virtual
   Escenario: Acceso a plataforma virtual desde chrome1
     Dado que el usuario entra en la pagina Dog
     Cuando el usuario inicia una busqueda de: rock argentino

@@ -1,6 +1,7 @@
 # language:es
 Característica: Busqueda en Catpile
 
+  @plataforma
   Escenario: Acceso a plataforma virtual desde Firefox1
     Dado que el usuario entra en la pagina Dog
     Cuando el usuario inicia una busqueda de: rock argentino
