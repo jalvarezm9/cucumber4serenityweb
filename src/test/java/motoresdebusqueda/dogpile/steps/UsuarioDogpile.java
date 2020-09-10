@@ -25,7 +25,7 @@ public class UsuarioDogpile {
 
     @Dado("que el usuario entra en la pagina Dog")
     public void irgresar_a_dogpile() {
-        paginaPrincipal.setDefaultBaseUrl("https://www.dogpile.com/");
+        //paginaPrincipal.setDefaultBaseUrl("https://www.dogpile.com/");
         paginaPrincipal.open();
     }
 
